@@ -1,4 +1,4 @@
-/* GAME BOARD STYLES */
+/* Your CSS Code here. */
 #gameContainer {
     /*
     width and height of .gameBoardPixel should 1/40 of the width and height of #gameContainer,
@@ -123,4 +123,4 @@
     #onScreenControllers button:active {
     background-color: slategray;
     }
-   }
+}
